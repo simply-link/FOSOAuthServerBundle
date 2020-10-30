@@ -1,0 +1,10 @@
+phpunit.xml
+Tests/autoload.php
+vendor/
+Propel/om/
+Propel/map/
+composer.lock
+.php_cs.cache
+/.idea/
+.icloud
+.DS_Store
